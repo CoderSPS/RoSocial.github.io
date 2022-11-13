@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@300&display=swap');
+#RST{
+   text-align: center;
+  font-family:'Montserrat';
+  font-size: 50px; 
+}
+.beforeButton {
+  text-align: center;
+  font-family:'Open Sans';
+  font-size: 30px;
+}
+
+.button{ 
+    top:50%;
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:100em 
+}
+#AboutH{
+   text-align: center;
+  font-family:'Montserrat';
+  font-size: 40px; 
+    }
+#Background1{
+    text-align: center;
+}
+#about{
+    font-family: 'Open Sans'
+}
+.AboutHP{
+ text-align: center;
+}
+body {
+  font-family: 'Coming Soon', cursive;
+  transition: background 1s ease;
+   background: #3498db;
+}  

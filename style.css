@@ -10,13 +10,25 @@
   font-size: 30px;
 }
 
-.button{ 
-    top:50%;
-    background-color:#0a0a23;
-    color: #fff;
-    border:none;
-    border-radius:100em 
+.button3 {
+  color: white;
+  background: darkturquoise;
+  padding: 20px;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: all 0.4s;
+  margin-bottom: 20px;
 }
+
+/* Styling for the third button when hovering over it */
+.button3:hover {
+  color: white;
+  background: #00bfff;
+  border-radius: 10px;
+  transition: all 0.4s;
+  box-shadow: 0 0 1px 5px rgb(0, 191, 255), 0 0 1px 10px rgba(0, 191, 255, 0.1);
+}
+
 #AboutH{
    text-align: center;
   font-family:'Montserrat';
